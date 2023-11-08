@@ -1,4 +1,4 @@
-# ULTRASONIC SENSOR INTERFACING
+# EX-02 - ULTRASONIC SENSOR INTERFACING
 ## AIM:
 To measure the distance of the obstacle using ultrasonic sensor and display the value in serial monitor using Arduino UNO controller.
 ## Software required:
